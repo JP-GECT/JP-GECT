@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JP-GECT
-- 👀 I’m interested in Front-End Devlopment
-- 🌱 I’m currently learning React.JS
+- 👀 I’m interested in Full-Stack Devlopment
+- 🌱 I’m currently learning Next.JS
 - 💞️ I’m looking to collaborate on Web-Devlopment
 - 📫 How to reach me josephpauly3295@gmail.com
 
